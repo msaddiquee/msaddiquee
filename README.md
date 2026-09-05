@@ -51,9 +51,19 @@ and I solve problems for fun when neither of those is cooperating.
 
 <div align="center">
 
-## `~/` tool box
+  ## `~/` tool box
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,mongodb,express,react,nodejs,postman,nextjs,tailwind,git,github,vscode,html,css,vercel,netlify,c,ruby,rails,linux,figma&perline=11" alt="tech stack">
+  ### 🎨 Frontend Universe
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=8" alt="frontend stack">
+
+  ### ⚙️ Backend Powerhouse
+  <img src="https://skillicons.dev/icons?i=nodejs,express,c,cpp,ruby,rails&perline=8" alt="backend stack">
+
+  ### 🗄️ Database & Cloud
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,vercel,netlify&perline=8" alt="database and cloud">
+
+  ### 🛠️ Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&perline=8" alt="tools and platforms">
 
 </div>
 
