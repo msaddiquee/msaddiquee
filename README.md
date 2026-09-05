@@ -96,9 +96,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
-<br><br>
+<!-- <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+<img src="assets/metrics.achievements.svg" width="90%" alt="achievements"> -->
 
 </div>
 
