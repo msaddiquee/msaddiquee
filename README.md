@@ -112,7 +112,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 </div>
 
----
+<!-- --- -->
 
 <!-- <div align="center"> -->
 
@@ -163,7 +163,7 @@ and I solve problems for fun when neither of those is cooperating.
 </tr>
 </table> -->
 
-<sub>
+<!-- <sub> -->
 
 <!-- | project | live | stack |
 |---|---|---|
